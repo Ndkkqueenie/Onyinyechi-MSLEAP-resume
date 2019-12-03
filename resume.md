@@ -29,6 +29,10 @@
  **Mother tougue** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Igbo
 
 **Foreign language(s)** <br/>
- &nbsp; &nbsp; &nbsp; UNDERSTANDING  &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; SPEAKING  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; WRITTING  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|
- ------------------------------ | ------------------------------ |------------------------------ |
-   &nbsp; &nbsp; &nbsp; &nbsp;  Listening / Reading &nbsp; | &nbsp; Spoken interaction / Spoken pronounciation &nbsp; | 
+ **English language** UNDERSTANDING (Listening / Reading) | SPEAKING  |  WRITTING |
+ -------------------------------------------------------- | --------- |---------- |
+ Proficient                                               | Proficient| Proficient| 
+
+ **German**&nbsp; &nbsp;UNDERSTANDING(Listening / Reading) | SPEAKING  |  WRITTING |
+ --------------------------------------------------------- | --------- |--------- |
+ Basic

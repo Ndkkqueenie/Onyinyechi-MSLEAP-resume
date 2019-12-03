@@ -26,7 +26,7 @@
 
 #### PERSONAL SKILLS
  
- **Mother tougue** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Igbo
+ **Mother tougue** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Igbo
 
 **Foreign language(s)** 
 

@@ -34,3 +34,15 @@
  ------------------------------------------------------------- | ------------ | ------------ |
 **English language:** Proficient                               | Proficient   | Proficient   | 
 **German:**           Basic                                    | Basic        | Basic        |
+
+**Communication skills** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - good communication skills gained through my experience as a web developer and teacher
+
+**Organisational / managerial skills** - leadership skills as a teacher and currently a lead web track at WWCode<br/>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;- good project management skills using Github <br/>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;- good team-leading skills  experience as a team lead during Lagos testathon (currently responsible for a hackathon team 0f 5 people in upcoming NaijaHacks) 
+
+**Job-related skills**&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; - Software development skills gained during Andela training and HNG internship <br/>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;- UI/ UX <br/>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;- IT / technical support knowledge from Google training
+
+**Digital Skills**
+
+**Information processing** | **Communication** | **Content creation** | **safety**      | **Problem solving** |
+ ------------------------- | ----------------- | -------------------- | -------------   | ------------------- |
+Proficient user            | Proficient user   | Proficient user      | Proficient user | Independent user    |

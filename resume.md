@@ -26,5 +26,9 @@
 
 #### PERSONAL SKILLS
  
+ **Mother tougue** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Igbo
 
-
+ **Foreign language(s)** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; UNDERSTANDING  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; SPEAKING  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; WRITTING  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|
+ ------------------------------ | ------------------------------ |------------------------------ |
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Listening &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; Reading &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; Spoken interaction &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; Spoken pronounciation| 
+ ------------------------------ | ------------------------------ |------------------------------ |

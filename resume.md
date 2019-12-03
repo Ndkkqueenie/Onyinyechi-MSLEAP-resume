@@ -33,5 +33,5 @@
  **English language:**<br/>UNDERSTANDING (Listening / Reading) | SPEAKING  |  WRITTING |
  ------------------------------------------------------------- | --------- |---------- |
  Proficient                                                    | Proficient| Proficient| 
-**German:**<br/>&nbsp; &nbsp;UNDERSTANDING(Listening/ Reading) | SPEAKING  |  WRITTING |
+**German:**                                                    |           |           |
  Basic                                                         | Basic     | Basic     |

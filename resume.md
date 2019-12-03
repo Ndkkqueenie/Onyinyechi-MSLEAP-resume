@@ -30,10 +30,8 @@
 
 **Foreign language(s)** 
 
- **English language** UNDERSTANDING (Listening / Reading) | SPEAKING  |  WRITTING |
- -------------------------------------------------------- | --------- |---------- |
- Proficient                                               | Proficient| Proficient| 
-
- **German**&nbsp; &nbsp;UNDERSTANDING(Listening / Reading) | SPEAKING  |  WRITTING |
- --------------------------------------------------------- | --------- |--------- |
- Basic                                                     | Basic     | Basic    |
+ **English language:**<br/>UNDERSTANDING (Listening / Reading) | SPEAKING  |  WRITTING |
+ ------------------------------------------------------------- | --------- |---------- |
+ Proficient                                                    | Proficient| Proficient| 
+**German:**<br/>&nbsp; &nbsp;UNDERSTANDING(Listening/ Reading) | SPEAKING  |  WRITTING |
+ Basic                                                         | Basic     | Basic     |
